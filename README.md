@@ -12,4 +12,4 @@ AI Product portfolio highlighting product and technical work across Samsung R&D 
 DTU '23 | ~3 years Samsung R&D | AI/Android systems | Hands-on product discovery, PRDs, MVP definition and market validation.
 
 GitHub: https://github.com/vineetjindalit
-LinkedIn: https://www.linkedin.com/in/viyanxt/
+LinkedIn: https://www.linkedin.com/in/vineetjindalit/
