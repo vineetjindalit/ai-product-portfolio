@@ -8,6 +8,9 @@ AI Product portfolio highlighting product and technical work across Samsung R&D 
 - SnapAI product discovery and marketplace pivot
 - AI developer productivity tools
 
+## Portfolio PDF
+[View / download the AI Product Portfolio PDF](./Vineet_Jindal_AI_Product_Portfolio.pdf)
+
 ## Profile
 DTU '23 | ~3 years Samsung R&D | AI/Android systems | Hands-on product discovery, PRDs, MVP definition and market validation.
 
