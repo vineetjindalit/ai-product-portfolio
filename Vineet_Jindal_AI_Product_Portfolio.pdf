@@ -1,0 +1,220 @@
+%PDF-1.4
+%ASCII
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2143 >>
+stream
+q
+1 1 1 rg
+0 0 595 842 re f
+0 0 0 rg
+Q
+BT /F2 26 Tf 1 0 0 1 42 785 Tm (AI PRODUCT PORTFOLIO) Tj ET
+BT /F2 17 Tf 1 0 0 1 42 748 Tm (Vineet Jindal) Tj ET
+BT /F1 11 Tf 1 0 0 1 42 720 Tm (Engineer by training. Product builder by) Tj ET
+BT /F1 11 Tf 1 0 0 1 42 704 Tm (practice.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 682 Tm (DTU Mathematics & Computing graduate with 3+ years at Samsung R&D across) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 667 Tm (Android systems and on-device AI. I use that technical foundation to) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 652 Tm (understand user problems, define products, test assumptions and build) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 637 Tm (AI-enabled experiences.) Tj ET
+BT /F2 14 Tf 1 0 0 1 42 616 Tm (WHAT I BRING) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 591 Tm (Product Discovery - user conversations, problem framing, market and) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 576 Tm (competitor research, hypotheses, MVP definition.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 555 Tm (AI / ML - on-device AI, TensorFlow Lite, quantization, pruning, LRCN,) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 540 Tm (image processing, AI prototyping.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 519 Tm (Execution - PRDs, workflows, prioritization, trade-offs, validation) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 504 Tm (planning, cross-functional thinking.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 483 Tm (Systems - Android/ADB, root-cause analysis, thermal/reset behavior,) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 468 Tm (reliability, workflow automation.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 447 Tm (Marketplace - supply-demand research, pricing/payout economics,) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 432 Tm (positioning, hyperlocal GTM validation.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 411 Tm (Technical - Python, C, C++, JavaScript, Node.js, Express.js, MongoDB,) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 396 Tm (MySQL, Git.) Tj ET
+BT /F2 14 Tf 1 0 0 1 42 375 Tm (CURRENT TARGET) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 350 Tm (AI Product Manager / Product Manager roles where technical feasibility,) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 335 Tm (customer understanding and AI product execution meet.) Tj ET
+BT /F1 7 Tf 1 0 0 1 42 24 Tm (Vineet Jindal | AI Product Portfolio | 1) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1600 >>
+stream
+q
+1 1 1 rg
+0 0 595 842 re f
+0 0 0 rg
+Q
+BT /F2 10 Tf 1 0 0 1 42 785 Tm (CASE STUDY 01) Tj ET
+BT /F2 22 Tf 1 0 0 1 42 764 Tm (Android Sanity Automation) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 731 Tm (Samsung R&D | Python + ADB | System performance | Workflow automation) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 710 Tm (PROBLEM) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 686 Tm (Engineers manually connected devices, ran ADB/grep commands, exercised) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 671 Tm (apps, collected CPU, memory, performance and thermal parameters across) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 656 Tm (Android versions, and populated comparison spreadsheets.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 635 Tm (APPROACH) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 611 Tm (Proposed and built a Python/ADB workflow that automated device actions,) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 596 Tm (parameter collection, cross-version comparison and multi-sheet Excel) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 581 Tm (report generation with anomaly highlighting.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 560 Tm (PRODUCT LENS) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 536 Tm (Started from repetitive user pain inside the engineering workflow,) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 521 Tm (defined the useful output, automated the highest-friction steps, and) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 506 Tm (made deviations easy to inspect.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 485 Tm (OUTCOME) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 461 Tm (Replaced a tedious manual device-to-report process with an automated) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 446 Tm (workflow.) Tj ET
+BT /F1 7 Tf 1 0 0 1 42 24 Tm (Vineet Jindal | AI Product Portfolio | 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 1620 >>
+stream
+q
+1 1 1 rg
+0 0 595 842 re f
+0 0 0 rg
+Q
+BT /F2 10 Tf 1 0 0 1 42 785 Tm (CASE STUDY 02) Tj ET
+BT /F2 22 Tf 1 0 0 1 42 764 Tm (AI GIF Event Detection) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 731 Tm (Samsung R&D | LRCN | TFLite | Dataset creation | Android integration) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 710 Tm (PROBLEM) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 686 Tm (Detect meaningful gaming events such as kills, level completion or match) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 671 Tm (outcomes and preserve relevant moments as GIF highlights.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 650 Tm (ROLE) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 626 Tm (Worked in a six-member team and owned seven games in the workstream:) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 611 Tm (gameplay recording, frame extraction and labeling, LRCN-based model) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 596 Tm (training, TFLite conversion, Android integration and testing.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 575 Tm (ITERATION) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 551 Tm (Investigated capture failures, refined event logic and supported QA) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 536 Tm (feedback loops across different game behaviors.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 515 Tm (PRODUCT LENS) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 491 Tm (Translated different user and game experiences into event definitions) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 476 Tm (while balancing model quality with mobile deployment constraints.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 455 Tm (OUTCOME) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 431 Tm (Supported India and Korea QA toward commercial launch consideration.) Tj ET
+BT /F1 7 Tf 1 0 0 1 42 24 Tm (Vineet Jindal | AI Product Portfolio | 3) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2271 >>
+stream
+q
+1 1 1 rg
+0 0 595 842 re f
+0 0 0 rg
+Q
+BT /F2 10 Tf 1 0 0 1 42 785 Tm (CASE STUDY 03) Tj ET
+BT /F2 22 Tf 1 0 0 1 42 764 Tm (SnapAI: Smart Capture to Marketplace) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 731 Tm (PRD | User discovery | Market research | MVP | AI workflow | GTM) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 716 Tm (validation) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 695 Tm (PROBLEM) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 671 Tm (For small events, trips and everyday moments, someone often stays behind) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 656 Tm (the camera; professional photography can feel expensive or cumbersome) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 641 Tm (for short, spontaneous needs.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 620 Tm (V1) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 596 Tm (Started with an unattended AI Smart Capture concept: place a phone on a) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 581 Tm (stand, capture important moments automatically, then curate and edit the) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 566 Tm (album.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 545 Tm (DISCOVERY) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 521 Tm (User conversations exposed a core limitation: real events move.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 506 Tm (Occlusion, changing angles and unpredictable moments make fixed) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 491 Tm (unattended capture unreliable.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 470 Tm (PIVOT) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 446 Tm (Reframed SnapAI as an on-demand capture marketplace: a human captures) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 431 Tm (the moment while AI supports quality, culling, editing, curation and) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 416 Tm (delivery.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 395 Tm (PM WORK) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 371 Tm (Completed PRD work; customer and photographer discovery; competitor and) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 356 Tm (market research; pricing and supply-economics analysis; MVP design and) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 341 Tm (real-world validation.) Tj ET
+BT /F2 13 Tf 1 0 0 1 42 320 Tm (EARLY VALIDATION) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 296 Tm (AI culling/editing workflow tested on approximately 120 photos; current) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 281 Tm (focus is willingness-to-pay and supply validation.) Tj ET
+BT /F1 7 Tf 1 0 0 1 42 24 Tm (Vineet Jindal | AI Product Portfolio | 4) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2367 >>
+stream
+q
+1 1 1 rg
+0 0 595 842 re f
+0 0 0 rg
+Q
+BT /F2 22 Tf 1 0 0 1 42 785 Tm (OTHER PRODUCT / AI WORK) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 752 Tm (AI CL Analyzer - code-change/wiki summarization and build checking) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 737 Tm (concept.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 716 Tm (Delta Merge Tool - automation to verify model-specific code across) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 701 Tm (Android-version paths.) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 680 Tm (Profile Pilot - privacy and multi-user profile concept selected by HOD) Tj ET
+BT /F1 10 Tf 1 0 0 1 42 665 Tm (for further senior review.) Tj ET
+BT /F2 14 Tf 1 0 0 1 42 644 Tm (EXPERIENCE & EVIDENCE) Tj ET
+BT /F2 10 Tf 1 0 0 1 42 619 Tm (2024-2026 Software Development Engineer, Samsung R&D Institute India -) Tj ET
+BT /F2 10 Tf 1 0 0 1 42 604 Tm (Noida) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 583 Tm (Android heating/reset analysis, on-device AI, AI feature development,) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 569 Tm (developer tooling and customer VOC diagnosis.) Tj ET
+BT /F2 10 Tf 1 0 0 1 42 549 Tm (2023-2024 Software Engineering Intern, Samsung R&D Institute India -) Tj ET
+BT /F2 10 Tf 1 0 0 1 42 534 Tm (Noida) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 513 Tm (Android sanity automation; Android platform fundamentals;) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 499 Tm (Professional-level DSA assessment; DTU batch representative/mentor.) Tj ET
+BT /F2 10 Tf 1 0 0 1 42 479 Tm (2026-Present SnapAI - Founder & Product Builder) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 458 Tm (PRD, customer/supply discovery, competitor research, MVP workflow, AI) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 444 Tm (culling/editing, pricing/economics and GTM validation.) Tj ET
+BT /F2 14 Tf 1 0 0 1 42 424 Tm (EDUCATION & RECOGNITION) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 399 Tm (Delhi Technological University - B.Tech, Mathematics & Computing, 2023 |) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 385 Tm (CGPA 8.1) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 365 Tm (Samsung Professional-level DSA assessment - Rs. 50,000 incentive |) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 351 Tm (Samsung internal recognition.) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 331 Tm (LeetCode all-time best rank 11,741 | HackerBlocks rank 2,452 / 56,400 |) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 317 Tm (JEE Advanced AIR 11,680) Tj ET
+BT /F1 9 Tf 1 0 0 1 42 297 Tm (GitHub: github.com/vineetjindalit) Tj ET
+BT /F1 7 Tf 1 0 0 1 42 24 Tm (Vineet Jindal | AI Product Portfolio | 5) Tj ET
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000016 00000 n 
+0000000065 00000 n 
+0000000148 00000 n 
+0000000218 00000 n 
+0000000293 00000 n 
+0000000429 00000 n 
+0000002623 00000 n 
+0000002759 00000 n 
+0000004410 00000 n 
+0000004547 00000 n 
+0000006219 00000 n 
+0000006357 00000 n 
+0000008680 00000 n 
+0000008818 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+11237
+%%EOF
